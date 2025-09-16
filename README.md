@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Levi  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Levi-Luo736&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Levi-Luo736&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false" />
 
 I’m a **Front-End Engineer** passionate about crafting beautiful, functional, and user-friendly web experiences. I specialize in building responsive, pixel-perfect interfaces with modern JavaScript frameworks and a keen eye for design. My goal is to bridge the gap between aesthetics and performance, delivering seamless digital solutions that delight users. When I’m not coding, you’ll find me exploring new tools, refining my skills, or sipping coffee while brainstorming creative ideas.
 ## About Me  
